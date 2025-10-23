@@ -1,6 +1,6 @@
 # Ripple Rush
 
-[cloudflarebutton]
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/SampleBias/generated-app-20251023-015013)
 
 A visually stunning 10-second click speed test where each click creates a beautiful, interactive water ripple effect.
 
@@ -88,4 +88,4 @@ This application is designed to be deployed seamlessly to the Cloudflare network
 
 Alternatively, you can deploy directly from your GitHub repository with a single click.
 
-[cloudflarebutton]
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/SampleBias/generated-app-20251023-015013)
